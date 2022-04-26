@@ -1,0 +1,1 @@
+# Minathon2022_SmartDiary
