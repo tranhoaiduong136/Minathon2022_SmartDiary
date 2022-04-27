@@ -5,4 +5,14 @@ This project is our attempt in the atWare Minathon 2022 challange.Moodify acts a
 
 Despite not being able to win any prizes but we had a lot of fun when doing this project.
 
+<img src="https://github.com/leloc0609/Minathon2022_SmartDiary/blob/main/static/logo.png" width="200" height="200">
 
+* AI model: Facial expression detection and Text context detection.
+* Web frame: Flask
+* Web front-end: HTML, CSS
+
+## Contributor
+* Scrum Master: [Le Nguyen Tan Loc](https://github.com/leloc0609)
+* Front End: [Nguyen Van Quang](https://github.com/quangnguyen310)
+* Back End: [Tran Hoai Duong](https://github.com/tranhoaiduong136)
+* Model AI: [Vu Hoang Hai](https://github.com/DaTha7)
